@@ -1,5 +1,5 @@
 # Clipboard Tool
-# Clipboard Plaintext PowerTool
+aka # Clipboard Plaintext PowerTool
 Clipboard Plaintext PowerTool (CPPT) - the most advanced clipboard tool on the planet
 
 ![CPPTMainMenu2024](https://github.com/markpahulje/clipboardplaintextpowertool/assets/19364586/5d8715d0-dbf1-40ac-8554-8e60be069bbb)
