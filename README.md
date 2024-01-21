@@ -13,7 +13,7 @@ Features
 * 1st-of-its knid, most recently used functions on menu
 * 120 Tranformation Functions, assignable to combo keys
 * 20 PowerTools, assignable to combo keys
-* Version 5.1 since 2015
+* Latest version 5.1, since 2015, ~$50 for lifetime license
 
 
 
