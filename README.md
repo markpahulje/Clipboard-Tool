@@ -1,13 +1,7 @@
 # Clipboard Tool
 # Clipboard Plaintext PowerTool
-Clipboard Plaintext PowerTool (CPPT) - the most advanced clipboard tool on the planet
 
-Features
-* 1-click design from system tray for productivity and speed
-* clipboard history grows on the menu, combo key accessible
-* 1st-of-its kind, on-the-fly media file Metadata Extraction
-* 120 Tranformation Functions, assignable to combo keys
-* 20 PowerTools, assignable to combo keys
+https://github.com/markpahulje/Clipboard-Tool/wiki
 
 💫 Get it at https://clipboardplaintextpowertool.blogspot.com/ 	👍
 
