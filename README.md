@@ -13,6 +13,8 @@ Features
 * 1st-of-its knid, most recently used functions on menu
 * 120 Tranformation Functions, assignable to combo keys
 * 20 PowerTools, assignable to combo keys
+* Version 5.1 since 2015
+
 
 
 Get it at <a href="https://clipboardplaintextpowertool.blogspot.com/" target="_blank">https://clipboardplaintextpowertool.blogspot.com/</a>
