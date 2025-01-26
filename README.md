@@ -1,5 +1,4 @@
-# Clipboard Tool
-# aka Clipboard Plaintext PowerTool
+# Clipboard Tool for Windows OS
 
 <h1>Clipboard Plaintext PowerTool (CPPT) - the most advanced clipboard tool on the planet</h1>
 
